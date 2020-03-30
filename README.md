@@ -3,4 +3,4 @@
 HTTP Server project for android to OSMZ subject.
 VŠB-TUO FEI 2020
 
-![App image](link-to-image)
+![App image](screenshots/Screenshot_20200330-142451.png)
